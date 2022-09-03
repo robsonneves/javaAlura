@@ -1,2 +1,2 @@
-# javaAlura
+# loteria-java
 Curso Alura Java 
